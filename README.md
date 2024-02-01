@@ -1,5 +1,5 @@
 ### Hi there 👋
-# I AM EFVARTS
+# EFVARTS
 
 Hi, my name is Ethan and this is my GITHUB profile. I have been programming for about 7 years (2024) and have
 been in gave dev for about 3. 
